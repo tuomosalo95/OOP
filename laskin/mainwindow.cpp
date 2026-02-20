@@ -188,3 +188,8 @@ void MainWindow::on_n9Button_clicked()
     setEditNum(9);
 }
 
+void MainWindow::on_n0Button_clicked()
+{
+    setEditNum(0);
+}
+

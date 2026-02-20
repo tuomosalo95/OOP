@@ -37,6 +37,20 @@ private slots:
 
     void on_clearButton_clicked();
 
+    void on_n5Button_clicked();
+
+    void on_n6Button_clicked();
+
+    void on_n7Button_clicked();
+
+    void on_n8Button_clicked();
+
+    void on_n9Button_clicked();
+
+    void on_n0Button_clicked();
+
+    void on_n4Button_clicked();
+
 private:
     Ui::MainWindow *ui;
     int num1;
